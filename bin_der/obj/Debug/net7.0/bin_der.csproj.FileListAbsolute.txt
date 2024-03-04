@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\bin_der\bin_der\bin\Debug\net7.0\bin_der.exe
+C:\Users\admin\Desktop\bin_der\bin_der\bin\Debug\net7.0\bin_der.deps.json
+C:\Users\admin\Desktop\bin_der\bin_der\bin\Debug\net7.0\bin_der.runtimeconfig.json
+C:\Users\admin\Desktop\bin_der\bin_der\bin\Debug\net7.0\bin_der.dll
+C:\Users\admin\Desktop\bin_der\bin_der\bin\Debug\net7.0\bin_der.pdb
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.AssemblyInfo.cs
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.dll
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\refint\bin_der.dll
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.pdb
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\bin_der.genruntimeconfig.cache
+C:\Users\admin\Desktop\bin_der\bin_der\obj\Debug\net7.0\ref\bin_der.dll
